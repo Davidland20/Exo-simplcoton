@@ -1,0 +1,17 @@
+body {
+	background: url("https://www.projet-voltaire.fr/pv-wp/wp-content/uploads/2017/04/coton.jpg");
+}
+
+p { 
+color: green;
+ }
+ .Cadre {width:200px;height:200px;border:2px solid #999999;background-color: gold;
+
+ }
+ 
+ div{style="padding:5px; width:300px; margin:auto; border:8px solid #67ab9f; background-color:#b3d8d2; -moz-border-radius:20px; -khtml-border-radius:20px; -webkit-border-radius:20px; border-radius:20px;
+
+ } 
+<strong>Le Coton</strong>:<br />
+
+</div>
