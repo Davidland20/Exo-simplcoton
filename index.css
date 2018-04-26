@@ -1,17 +1,27 @@
 body {
-	background: url("https://www.projet-voltaire.fr/pv-wp/wp-content/uploads/2017/04/coton.jpg");
+	background-color: #fef8f2;
+	text-align: center;
+	width: 100%; 
 }
 
 p { 
 color: green;
  }
- .Cadre {width:200px;height:200px;border:2px solid #999999;background-color: gold;
+ .Cadre {width:200px;height:200px;border:2px solid #999999;
+ 	text-align: center;
 
  }
+img {
+	"https://simplon.co/wp-content/uploads/2017/02/simplon.logo_.png";
+    border-radius: 8px;
+}
  
  div{style="padding:5px; width:300px; margin:auto; border:8px solid #67ab9f; background-color:#b3d8d2; -moz-border-radius:20px; -khtml-border-radius:20px; -webkit-border-radius:20px; border-radius:20px;
 
  } 
-<strong>Le Coton</strong>:<br />
+h1{
+	font-size: 57px;
 
-</div>
+}
+
+</div> chocolat
