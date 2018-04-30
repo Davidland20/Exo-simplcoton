@@ -1,27 +1,96 @@
 body {
 	background-color: #fef8f2;
-	text-align: center;
-	width: 100%; 
+	text-align: center; 
+	font-weight: normal;
+	width: 100%;
+	color: black; 
+	position: fixed;
+
 }
 
 p { 
-color: green;
+font-weight: normal;
+color: white;
+position: fixed;
  }
- .Cadre {width:200px;height:200px;border:2px solid #999999;
+
+ .Cadre {
+ 	width:400px;
+ 	height:200px;
+ 	border:20px solid #999999;
  	text-align: center;
+ 	color: black;
+ 	position: fixed;
+
 
  }
-img {
-	"https://simplon.co/wp-content/uploads/2017/02/simplon.logo_.png";
-    border-radius: 8px;
-}
  
- div{style="padding:5px; width:300px; margin:auto; border:8px solid #67ab9f; background-color:#b3d8d2; -moz-border-radius:20px; -khtml-border-radius:20px; -webkit-border-radius:20px; border-radius:20px;
+ 
+ div{
+padding:5px
+width:400px; 
+margin:auto; 
+border:8px 
+solid #fef8f2; 
+background-color:#fef8f2;
+color:#fef8f2;
 
- } 
+
+
+
+
+
+ }
+
 h1{
 	font-size: 57px;
+	color:black;
+	background-color:#fef8f2;
+}
+div span{
+	color:black;
+	background-color: gray;
+}
+div class{
+	color: gray;
+}
+span{
+	color: gray;
+
 
 }
 
-</div> chocolat
+footer{
+
+    background-color:gray;
+     height: 100px; width: 100%;
+     margin-right: auto;
+     margin-top: 0px: 
+     margin-bottom: 0px;
+      left: 0px;
+      line-height: 50px;
+      text-align: right;
+      color: gray;
+      position: fixed;
+      
+}
+
+footer p{
+     line-height: 50px;
+	color:gray;
+}
+
+
+.sous_titre {
+	font-size: 88px;
+	color:black;
+	position: fixed;
+
+}
+
+#contenu {
+ min-width:100px
+ line-height:100px;
+ color: gray;
+ position: fixed;
+}
